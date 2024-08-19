@@ -8,8 +8,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 build-mode = "both"
+arch = "arm64-v8a"
 
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 build-mode = "both"
+arch = "arm64-v8a"
+
 
